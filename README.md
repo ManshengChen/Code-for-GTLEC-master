@@ -7,5 +7,7 @@ Open demo.m to run GTLEC. You can replace the dataset in the experiment as you w
 
 References:
 "On Regularizing Multiple Clusterings for Ensemble Clustering by Graph Tensor Learning"
+
 Written by: Mansheng Chen, chenmsh27@mail2.sysu.edu.cn
- 2023-08-02
+
+2023-08-02
