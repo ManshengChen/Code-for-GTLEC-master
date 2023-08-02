@@ -1,0 +1,72 @@
+2020-09-16_23_25_51
+@ alpha:0.1000 / beta:10.0000 
+TM: 0.00 ACC:99.26 NMI:97.40 Purity:99.26 Fscore:98.73 Precision:98.90 AR:98.33 Entropy:97.44  Recall:98.56
+
+2020-09-16_23_26_34
+@ alpha:0.1000 / beta:10.0000 
+TM: 0.00 ACC:99.26 NMI:97.40 Purity:99.26 Fscore:98.73 Precision:98.90 AR:98.33 Entropy:97.44  Recall:98.56
+
+2020-09-16_23_26_46
+@ alpha:0.1000 / beta:10.0000 
+TM: 0.00 ACC:99.26 NMI:97.40 Purity:99.26 Fscore:98.73 Precision:98.90 AR:98.33 Entropy:97.44  Recall:98.56
+
+2020-09-16_23_27_32
+@ alpha:0.1000 / beta:10.0000 
+TM: 0.00 ACC:99.26 NMI:97.40 Purity:99.26 Fscore:98.73 Precision:98.90 AR:98.33 Entropy:97.44  Recall:98.56
+
+2020-09-16_23_27_55
+@ alpha:0.1000 / beta:10.0000 
+TM: 0.00 ACC:99.26 NMI:97.40 Purity:99.26 Fscore:98.73 Precision:98.90 AR:98.33 Entropy:97.44  Recall:98.56
+
+2020-09-16_23_33_43
+@ alpha:0.1000 / beta:10.0000 
+TM: 0.00 ACC:99.26 NMI:97.40 Purity:99.26 Fscore:98.73 Precision:98.90 AR:98.33 Entropy:97.44  Recall:98.56
+
+2020-09-16_23_37_24
+@ alpha:0.1000 / beta:10.0000 
+TM: 0.00 ACC:99.26 NMI:97.40 Purity:99.26 Fscore:98.73 Precision:98.90 AR:98.33 Entropy:97.44  Recall:98.56
+
+2020-09-16_23_38_00
+@ alpha:0.1000 / beta:10.0000 
+TM: 0.00 ACC:99.26 NMI:97.40 Purity:99.26 Fscore:98.73 Precision:98.90 AR:98.33 Entropy:97.44  Recall:98.56
+
+2020-09-16_23_40_15
+@ alpha:0.1000 / beta:10.0000 
+TM: 0.00 ACC:99.26 NMI:97.40 Purity:99.26 Fscore:98.73 Precision:98.90 AR:98.33 Entropy:97.44  Recall:98.56
+
+2022-04-16_15_10_16
+@ alpha:0.1000 / beta:10.0000 
+TM: 0.00 ACC:99.26 NMI:97.40 Purity:99.26 Fscore:98.73 Precision:98.90 AR:98.33 Entropy:97.44  Recall:98.56
+
+2022-04-16_15_29_42
+@ alpha:0.1000 / beta:10.0000 
+TM: 0.00 ACC:99.26 NMI:97.40 Purity:99.26 Fscore:98.73 Precision:98.90 AR:98.33 Entropy:97.44  Recall:98.56
+
+2022-04-16_19_30_29
+@ alpha:0.1000 / beta:10.0000 
+TM: 0.00 ACC:99.26 NMI:97.40 Purity:99.26 Fscore:98.73 Precision:98.90 AR:98.33 Entropy:97.44  Recall:98.56
+
+2022-04-16_21_12_57
+@ alpha:0.0100 / beta:10.0000 
+TM: 0.00 ACC:99.82 NMI:99.29 Purity:99.82 Fscore:99.74 Precision:99.65 AR:99.66 Entropy:99.34  Recall:99.83
+
+2022-04-16_21_13_16
+@ alpha:0.0200 / beta:10.0000 
+TM: 0.00 ACC:100.00 NMI:100.00 Purity:100.00 Fscore:100.00 Precision:100.00 AR:100.00 Entropy:100.00  Recall:100.00
+
+2022-05-15_20_48_12
+@ alpha:0.0200 / beta:10.0000 
+TM: 0.00 ACC:100.00 NMI:100.00 Purity:100.00 Fscore:100.00 Precision:100.00 AR:100.00 Entropy:100.00  Recall:100.00
+
+2022-05-18_16_12_41
+@ alpha:0.0200 / beta:10.0000 
+TM: 0.00 ACC:100.00 NMI:100.00 Purity:100.00 Fscore:100.00 Precision:100.00 AR:100.00 Entropy:100.00  Recall:100.00
+
+2022-05-18_16_13_50
+@ alpha:0.0200 / beta:10.0000 
+TM: 0.00 ACC:100.00 NMI:100.00 Purity:100.00 Fscore:100.00 Precision:100.00 AR:100.00 Entropy:100.00  Recall:100.00
+
+2022-10-30_22_47_58
+@ alpha:0.0200 / beta:10.0000 
+TM: 0.00 ACC:100.00 NMI:100.00 Purity:100.00 Fscore:100.00 Precision:100.00 AR:100.00 Entropy:100.00  Recall:100.00
+

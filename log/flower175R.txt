@@ -1,0 +1,4 @@
+2020-09-16_23_22_50
+@ alpha:0.1000 / beta:10.0000 
+TM: 0.00 ACC:99.26 NMI:97.40 Purity:99.26 Fscore:98.73 Precision:98.90 AR:98.33 Entropy:97.44  Recall:98.56
+
